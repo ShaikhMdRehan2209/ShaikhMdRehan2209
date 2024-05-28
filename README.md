@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaikh Md. Rehan Md. Ali</h1>
 <h3 align="center">Passionate about Data Analysis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhmdrehan2209&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhmdrehan2209" /> </p>
-
 - 🌱 I’m currently learning **MySQL, Power BI and Web Scraping (with Python)**
 
 - 💬 Ask me about **MySQL, Python, Data Cleaning, Data Visualization and any general Data Analysis questions.**
