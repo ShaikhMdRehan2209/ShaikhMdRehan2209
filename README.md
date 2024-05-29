@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaikh Md. Rehan Md. Ali</h1>
+<h1 align="center">YaHallo 👋, I'm Shaikh Md. Rehan Md. Ali</h1>
 <h3 align="center">Passionate about Data Analysis.</h3>
 
 - 🌱 I’m currently learning **MySQL, Power BI and Web Scraping (with Python)**
