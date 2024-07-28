@@ -1,7 +1,7 @@
 <h1 align="center">YaHallo 👋, I'm Shaikh Md. Rehan Md. Ali</h1>
 <h3 align="center">Passionate about Data Analysis.</h3>
 
-- 🌱 I’m currently learning **MySQL, Power BI and Web Scraping (with Python)**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **MySQL, Python, Data Cleaning, Data Visualization and any general Data Analysis questions.**
 
